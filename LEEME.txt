@@ -1,5 +1,5 @@
-Mobile Performance Fabric 1.21.1
+Mobile Performance Fabric 1.21.1 — versión compatible con Fabric Loader 0.16.7
 
-Extrae los 20 archivos .jar directamente en la carpeta mods de tu instancia Fabric 1.21.1.
+Extrae los 18 archivos .jar directamente en la carpeta mods de tu instancia Fabric 1.21.1.
 No pongas este ZIP dentro de mods: usa Extraer aquí.
 Este pack no incluye Iris ni shaders para priorizar FPS y estabilidad en celulares.

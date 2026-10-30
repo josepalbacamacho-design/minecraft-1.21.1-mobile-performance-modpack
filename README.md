@@ -4,7 +4,7 @@ Pack compacto de rendimiento para **PojavLauncher, MoJo Launcher y otros launche
 
 ## Qué incluye
 
-Incluye **20 archivos `.jar`**: más de 10 mods de rendimiento, además de Fabric API y librerías/configuración necesarias. No incluye Iris ni shaders para evitar tirones y consumo excesivo de RAM en celulares de gama baja.
+Incluye **18 archivos `.jar`**: más de 10 mods de rendimiento, además de Fabric API y librerías/configuración necesarias. No incluye Iris ni shaders para evitar tirones y consumo excesivo de RAM en celulares de gama baja.
 
 ### Núcleo de FPS y renderizado
 
@@ -15,13 +15,11 @@ Incluye **20 archivos `.jar`**: más de 10 mods de rendimiento, además de Fabri
 - **Enhanced Block Entities** — optimiza cofres, camas y otros block entities.
 - **BadOptimizations** — correcciones de rendimiento de cliente.
 - **Exordium** — reduce el coste de interfaces y HUD.
-- **Sodium Extra** — opciones adicionales para reducir efectos y partículas.
 
 ### RAM, CPU, mundo y estabilidad
 
 - **Lithium** — optimiza lógica, física, IA y ticks.
 - **FerriteCore** — reduce uso de memoria.
-- **ModernFix** — optimiza memoria, carga y correcciones internas.
 - **Noisium** — acelera generación de ruido y mundo.
 - **ThreadTweak** — ajustes de hilos para reducir esperas.
 - **Krypton** — optimiza la red y el uso de CPU en multijugador.
@@ -74,6 +72,6 @@ El pack mejora el cliente y la conexión, pero no puede eliminar el lag causado 
 ## Compatibilidad
 
 - Minecraft Java **1.21.1**.
-- Fabric Loader reciente compatible con 1.21.1.
+- Fabric Loader **0.16.7 o superior** compatible con 1.21.1.
 - Java **21**.
 - Diseñado para cliente; algunos mods también funcionan en servidor, pero este ZIP está pensado para instalarse en el celular.
