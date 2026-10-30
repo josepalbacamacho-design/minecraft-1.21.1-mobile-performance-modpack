@@ -36,7 +36,9 @@ Incluye **20 archivos `.jar`**: más de 10 mods de rendimiento, además de Fabri
 
 ## Instalación
 
-1. Instala **Minecraft Java 1.21.1** con **Fabric Loader**.
+Las versiones del pack fueron verificadas contra Modrinth el 30 de octubre de 2026. Se mantienen las últimas releases disponibles para Minecraft 1.21.1 Fabric; consulta [VERSIONES-VERIFICADAS.md](VERSIONES-VERIFICADAS.md) para el detalle.
+
+1. Instala **Minecraft Java 1.21.1** con **Fabric Loader 0.20.1 o superior**. Las últimas versiones de Sodium Extra y ModernFix necesitan ese Loader; el 0.16.7 de tu captura es demasiado antiguo.
 2. Abre Minecraft una vez con Fabric para crear la carpeta `mods`.
 3. Descarga `Mobile-Performance-Fabric-1.21.1.zip` desde la Release.
 4. Extrae todos los `.jar` directamente dentro de:
